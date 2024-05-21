@@ -21,7 +21,32 @@
       "BOE": null,
       "BOBBI": null,
       "BO4": null,
-      "BO5": null
+      "BO5": null,
+      "title":"Orange cap"
+    },
+     {
+      "PLAYER_NAME": "Yuzvendra Chahal",
+      "KPIValue": "204",
+      "KPIType": "MostWickets",
+      "TEAM_CODE": "RR",
+      "TeamColor1": "#319490",
+      "TeamColor2": "#df7317",
+      "PLAYER_ID": "10",
+      "ClientPlayerID": "111",
+      "BTM": null,
+      "BTHS": null,
+      "BTAV": null,
+      "BT4": null,
+      "BT6": null,
+      "BT50": null,
+      "BT100": null,
+      "BOM": null,
+      "BOW": null,
+      "BOE": null,
+      "BOBBI": null,
+      "BO4": null,
+      "BO5": null,
+       "title":"Purple cap"
     },
     {
       "PLAYER_NAME": "Shikhar Dhawan",
@@ -44,7 +69,8 @@
       "BOE": null,
       "BOBBI": null,
       "BO4": null,
-      "BO5": null
+      "BO5": null,
+       "title":"Most Fours"
     },
     {
       "PLAYER_NAME": "Chris Gayle",
@@ -67,7 +93,8 @@
       "BOE": null,
       "BOBBI": null,
       "BO4": null,
-      "BO5": null
+      "BO5": null,
+       "title":"Most Sixes"
     },
     {
       "PLAYER_NAME": "Chris Gayle",
@@ -90,7 +117,8 @@
       "BOE": null,
       "BOBBI": null,
       "BO4": null,
-      "BO5": null
+      "BO5": null,
+       "title":"Highest Score"
     },
     {
       "PLAYER_NAME": "Travis Head",
@@ -113,30 +141,8 @@
       "BOE": null,
       "BOBBI": null,
       "BO4": null,
-      "BO5": null
-    },
-    {
-      "PLAYER_NAME": "Yuzvendra Chahal",
-      "KPIValue": "204",
-      "KPIType": "MostWickets",
-      "TEAM_CODE": "RR",
-      "TeamColor1": "#319490",
-      "TeamColor2": "#df7317",
-      "PLAYER_ID": "10",
-      "ClientPlayerID": "111",
-      "BTM": null,
-      "BTHS": null,
-      "BTAV": null,
-      "BT4": null,
-      "BT6": null,
-      "BT50": null,
-      "BT100": null,
-      "BOM": null,
-      "BOW": null,
-      "BOE": null,
-      "BOBBI": null,
-      "BO4": null,
-      "BO5": null
+      "BO5": null,
+       "title":"Best Strike Rate"
     }
   ]
 }
