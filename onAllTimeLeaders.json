@@ -2,7 +2,7 @@
   "allTimeLeaders": [
     {
       "PLAYER_NAME": "Virat Kohli",
-      "KPIValue": "7971",
+      "KPIValue": "8004",
       "KPIType": "MostRuns",
       "TEAM_CODE": "RCB",
       "TeamColor1": "#319490",
@@ -26,7 +26,7 @@
     },
      {
       "PLAYER_NAME": "Yuzvendra Chahal",
-      "KPIValue": "204",
+      "KPIValue": "205",
       "KPIType": "MostWickets",
       "TEAM_CODE": "RR",
       "TeamColor1": "#319490",
@@ -121,8 +121,8 @@
        "title":"Highest Score"
     },
     {
-      "PLAYER_NAME": "Travis Head",
-      "KPIValue": "178.69",
+      "PLAYER_NAME": "Phil Salt",
+      "KPIValue": "175.54",
       "KPIType": "BestStrikeRate",
       "TEAM_CODE": "SRH",
       "TeamColor1": "#319490",
