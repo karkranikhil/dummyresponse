@@ -2,17 +2,17 @@
   "stats": [
     {
       "category": "Total Fours",
-      "KPIValue": "2070",
+      "KPIValue": "2174",
       "KPIUnit": "Fours"
     },
     {
       "category": "Total Sixes",
-      "KPIValue": "1208",
+      "KPIValue": "1260",
       "KPIUnit": "Sixes"
     },
     {
       "category": "Total Fifties",
-      "KPIValue": "122",
+      "KPIValue": "128",
       "KPIUnit": "Fifties"
     },
     {
@@ -39,7 +39,7 @@
     {
       "category": "Orange Cap",
       "name": "Virat Kohli",
-      "KPIValue": "708",
+      "KPIValue": "741",
       "KPIUnit": "Runs",
       "playerId": "2"
     },
@@ -53,14 +53,14 @@
     {
       "category": "Most Valuable Player",
       "name": "Sunil Narine",
-      "KPIValue": "411.0",
+      "KPIValue": "450.0",
       "KPIUnit": "MVP",
       "playerId": "156"
     },
     {
       "category": "Fairplay",
       "name": "SRH Team",
-      "KPIValue": "143",
+      "KPIValue": "173",
       "KPIUnit": "PTS",
       "playerId": "33"
     }
