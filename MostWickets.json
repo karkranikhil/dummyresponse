@@ -1,6 +1,6 @@
 [
     {
-      "BowlerName": "Yuzvendra Chahal",
+      "StrikerName": "Yuzvendra Chahal",
       "RightHandedBat": "",
       "Nationality": "",
       "TeamCode": "RR",
@@ -45,7 +45,7 @@
       "Hattricks": "1"
     },
     {
-      "BowlerName": "Piyush Chawla",
+      "StrikerName": "Piyush Chawla",
       "RightHandedBat": "",
       "Nationality": "",
       "TeamCode": "MI",
@@ -90,7 +90,7 @@
       "Hattricks": "0"
     },
     {
-      "BowlerName": "Dwayne Bravo",
+      "StrikerName": "Dwayne Bravo",
       "RightHandedBat": "",
       "Nationality": "",
       "TeamCode": "CSK",
@@ -135,7 +135,7 @@
       "Hattricks": "0"
     },
     {
-      "BowlerName": "Bhuvneshwar Kumar",
+      "StrikerName": "Bhuvneshwar Kumar",
       "RightHandedBat": "",
       "Nationality": "",
       "TeamCode": "SRH",
@@ -180,7 +180,7 @@
       "Hattricks": "0"
     },
     {
-      "BowlerName": "Sunil Narine",
+      "StrikerName": "Sunil Narine",
       "RightHandedBat": "",
       "Nationality": "",
       "TeamCode": "KKR",
