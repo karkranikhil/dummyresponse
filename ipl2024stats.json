@@ -23,26 +23,22 @@
     {
       "category": "Highest Total",
       "KPIValue": "287-3",
-      "KPIUnit": "HighestTotal",
-      "achievedBy":"SRH"
+      "KPIUnit": "SRH"
     },
     {
       "category": "Lowest Total",
       "KPIValue": "89-10",
-      "KPIUnit": "LowestTotal",
-      "achievedBy":"GT"
+      "KPIUnit": "LowestTotal"
     },
     {
       "category": "Fastest Ball",
-      "KPIValue": "157",
-      "KPIUnit": "KPH",
-      "achievedBy":"Mayank Yadav"
+      "KPIValue": "157 KPH",
+      "KPIUnit": "KPH"
     },
     {
       "category": "Longest Six",
-      "KPIValue": "110",
-      "KPIUnit": "MTRS",
-       "achievedBy":"MS Dhoni"
+      "KPIValue": "110 MTRS",
+      "KPIUnit": "MS Dhoni"
     }
   ],
   "keystats": [
